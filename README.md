@@ -1,11 +1,14 @@
-# DemoRepo
-best
-better
-goog
-test 
-best
-not
-bad
-sad
-pot
-rich
+# SAMPLEREP0
+
+GOOD
+BETTER
+BEST
+HAI
+TATA
+ROHIT
+EMP
+TEST
+BEST
+NET
+CAT
+BAT
